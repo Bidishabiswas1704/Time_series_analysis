@@ -6,9 +6,6 @@ This project focuses on forecasting beer production using time-series analysis. 
 ## 🔄 Time-Series Analysis:
 Leveraging advanced time-series models, including SARIMA (Seasonal Autoregressive Integrated Moving Average), to capture underlying patterns and seasonality in beer production data.
 
-## 🌐 User-Friendly Streamlit App:
-An intuitive web application built with Streamlit, allowing users to interactively visualize and explore forecasted beer production. Users can customize input parameters such as the start date and the number of forecast steps.
-
 ## 🤖 Automated Forecasting:
 The project automates the forecasting process, providing users with a reliable tool for predicting beer production without the need for extensive statistical knowledge.
 
