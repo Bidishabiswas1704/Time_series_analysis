@@ -28,9 +28,6 @@ Utilizing Pandas for data manipulation and NumPy for numerical operations, ensur
 ## 📊 Statsmodels:
 Employing the Statsmodels library for time-series analysis, particularly SARIMA modeling.
 
-## 🚀 Streamlit:
-Developing the user-friendly web app using Streamlit for seamless interaction with the forecasting model.
-
 ## 📈 Matplotlib and Altair:
 Creating insightful visualizations with Matplotlib and Altair for clear representation of historical and forecasted data.
 
