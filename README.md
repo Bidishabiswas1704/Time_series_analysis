@@ -71,6 +71,8 @@ Open the web browser and go to http://localhost:8501 to explore the beer product
 [Include screenshots here to showcase the app interface and forecasted results]
 
 ## 📂 Directory Structure
+
+```
 .
 ├── data/
 │   └── monthly-beer-production.csv
@@ -86,7 +88,7 @@ Open the web browser and go to http://localhost:8501 to explore the beer product
 └── .github/
     └── workflows/
         └── ci_cd.yml
-
+```
 
 ## 🤝 Contribution
 
