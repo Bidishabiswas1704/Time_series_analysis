@@ -77,14 +77,20 @@ From Start date, we can pick the date of our choice with the help of calander pr
 
 ![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/2283f342-d78c-4a60-bec6-07febb4f7cdb)
 
+The number of forecasting steps can be filled with the help of (+) and (-) icons as shown below:
+
+![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/c9ae4b50-9744-40b8-bace-2e78fa40f8a8)
+
 
 ### Production Forecast Plot
 
-![Production Forecast Plot](path/to/screenshots/production_forecast_plot.png)
+![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/e6bec98b-ba06-43af-b63f-920e67785598)
+
 
 ### Forecasted Production
 
-![Forecasted Production](path/to/screenshots/forecasted_production.png)
+![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/fba62730-bd69-4253-a1e0-b0a12c8214fa)
+
 ## 📂 Directory Structure
 
 ```
