@@ -50,7 +50,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/beer-production-forecast.git
+git clone https://github.com/Bidishabiswas1704/Time_series_analysis
 ```
 
 Install Dependencies:
@@ -69,8 +69,22 @@ Open the web browser and go to http://localhost:8501 to explore the beer product
 
 ## 📊 Example Screenshots
 
-[Include screenshots here to showcase the app interface and forecasted results]
+### User Input
 
+![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/0e990f31-cce8-4a3e-8fb7-281014699593)
+
+From Start date, we can pick the date of our choice with the help of calander provided in the tab, as shown below:
+
+![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/2283f342-d78c-4a60-bec6-07febb4f7cdb)
+
+
+### Production Forecast Plot
+
+![Production Forecast Plot](path/to/screenshots/production_forecast_plot.png)
+
+### Forecasted Production
+
+![Forecasted Production](path/to/screenshots/forecasted_production.png)
 ## 📂 Directory Structure
 
 ```
