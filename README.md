@@ -2,8 +2,9 @@
 
 ## 🚀 Project Purpose
 
-This project is all about predicting the future production of beer. By looking at past production data, we can make smart decisions, manage resources better, and plan effectively. It's like having a crystal ball for beer production.
+This Time Series Forecasting project revolves around predicting future beer production based on historical data. It equips stakeholders in the beer industry with a powerful tool to make informed decisions, optimize resources, and plan effectively.
 
+The primary goal is to provide accurate predictions, enabling businesses to anticipate fluctuations in production and make proactive adjustments to meet demand. By leveraging advanced time-series models like SARIMA (Seasonal Autoregressive Integrated Moving Average), the project captures underlying patterns and seasonality in beer production data. By looking at past production data, we can make smart decisions, manage resources better, and plan effectively. It's like having a crystal ball for beer production.
 ## 🔍 Problem Statement
 
 Predicting beer production is crucial for breweries to ensure they make enough to meet demand without overproducing. This forecasting tool helps brewery stakeholders make informed decisions, optimize resources, and plan effectively to meet market demand.
