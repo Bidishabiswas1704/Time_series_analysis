@@ -72,8 +72,7 @@ Open the web browser and go to http://localhost:8501 to explore the beer product
 
 ## 📂 Directory Structure
 
-```
-.
+
 ├── data/
 │   └── monthly-beer-production.csv
 ├── notebooks/
