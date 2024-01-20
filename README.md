@@ -1,6 +1,3 @@
-Certainly! Here's a simplified and detailed description for a Time Series Forecasting project:
-
-```markdown
 # 📈 Time Series Forecasting for Beer Production
 
 ## 🚀 Project Purpose
