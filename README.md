@@ -67,7 +67,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
 
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/0375045f-d395-4a2b-b44c-26ff41dbb6c1)
   
-  - Screenshots of important visualizations during the model training phase.
+  - Screenshots of important visualizations during the model training phase (AC and PAC Plots).
 
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/4c698463-f3fa-42a3-bb35-da720c7c8c7b)
 
@@ -95,12 +95,12 @@ We use GitHub Actions for continuous integration, making sure our code is always
 
 ## 📊 Visualization and Interpretation
 - Screenshots of key visualizations aiding in the interpretation of historical and forecasted data showcasing specific results or insights obtained from the project.
-- Example Screenshot 1
-   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/3275e681-7818-4483-a45f-ff903e4e5847)
+- Future Production Prediction
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/3275e681-7818-4483-a45f-ff903e4e5847)
   
-   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/5e550299-9311-4b3b-bc19-c25778cd7577)
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/5e550299-9311-4b3b-bc19-c25778cd7577)
 
-  - Example Screenshot 2
+  - Visualiuzation via Plot of Future Production
    ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/57b5d03c-4710-470f-b547-7ed4b499d3d2)
 
 
