@@ -99,8 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 
-This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
-
+ This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
 
 # Beer Production Forecasting Project
 
