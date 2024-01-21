@@ -45,7 +45,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
 
 
 ## 📊 Data Exploration and Analysis (Jupyter Notebook)
-- Open the Jupyter Notebook (`exploratory_analysis.ipynb`) to explore and analyze the dataset.
+- Open the Jupyter Notebook (`Time series forecasting of beer production.ipynb`) to explore and analyze the dataset.
 - Follow step-by-step instructions to load the data, clean it, and perform initial visualizations.
 - Screenshots:
   - Screenshot of loading and exploring the dataset.
