@@ -43,87 +43,6 @@ These are our visual artists, helping us create insightful graphs to represent h
 ### 🔄 GitHub Actions:
 We use GitHub Actions for continuous integration, making sure our code is always in good shape.
 
-## 📄 Usage
-Clone the Repository:
-
-```bash
-git clone https://github.com/Bidishabiswas1704/Time_series_analysis
-```
-
-Install Dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Jupyter Notebook
-1. Open `Time series forecasting of beer production.ipynb` in Jupyter Notebook.
-2. Follow the step-by-step instructions to explore the dataset, train the SARIMA model, and make predictions.
-
-
-
-## Example Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-*Description: Preview of data exploration and model training.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Description: Visual representation of historical and forecasted beer production.*
-
-## 📂 Directory Structure
-
-```
-.
-├── data/
-│   └── monthly-beer-production.csv
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-├── screenshots/
-│   ├── screenshot1.png
-│   └── screenshot2.png
-├── beer_forecasting_app.py
-├── sarima_model.pkl
-├── requirements.txt
-├── README.md
-└── .github/
-    └── workflows/
-        └── ci_cd.yml
-```
-
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to open issues, propose new features, or submit pull requests.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-
- This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
-
-# Beer Production Forecasting Project
-
-## 📈 Overview
-This project focuses on forecasting beer production using time-series analysis. The primary goal is to provide accurate predictions of future production levels based on historical data. The forecasting tool enables stakeholders in the beer industry to make informed decisions, optimize resources, and plan effectively.
-
-## 📂 Directory Structure
-```
-.
-├── data/
-│   └── monthly-beer-production.csv
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-├── screenshots/
-│   ├── screenshot1.png
-│   └── screenshot2.png
-├── beer_forecasting_app.py
-├── sarima_model.pkl
-├── requirements.txt
-├── README.md
-└── .github/
-    └── workflows/
-        └── ci_cd.yml
-```
 
 ## 📊 Data Exploration and Analysis (Jupyter Notebook)
 - Open the Jupyter Notebook (`exploratory_analysis.ipynb`) to explore and analyze the dataset.
@@ -169,9 +88,13 @@ This project focuses on forecasting beer production using time-series analysis. 
   ```bash
   pip install -r requirements.txt
   ```
+### Jupyter Notebook
+1. Open `Time series forecasting of beer production.ipynb` in Jupyter Notebook.
+2. Follow the step-by-step instructions to explore the dataset, train the SARIMA model, and make predictions.
+
 - Run the Jupyter Notebook:
   ```bash
-  jupyter notebook exploratory_analysis.ipynb
+  jupyter notebook Time series forecasting of beer production.ipynb
   ```
 - Follow the instructions in the notebook to reproduce forecasting results.
 
@@ -179,7 +102,7 @@ This project focuses on forecasting beer production using time-series analysis. 
 Contributions are welcome! Feel free to open issues, propose new features, or submit pull requests.
 
 ## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
