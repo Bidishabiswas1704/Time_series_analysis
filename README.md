@@ -102,6 +102,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/5e550299-9311-4b3b-bc19-c25778cd7577)
 
   - Visualiuzation via Plot of Future Production
+    
    ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/57b5d03c-4710-470f-b547-7ed4b499d3d2)
 
 
