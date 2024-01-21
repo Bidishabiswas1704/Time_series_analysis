@@ -120,7 +120,7 @@ Contributions are welcome! Feel free to open issues, propose new features, or su
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-Feel free to customize it further based on your project details.
+
 
 
 # Beer Production Forecasting Project
