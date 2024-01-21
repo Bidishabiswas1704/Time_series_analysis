@@ -49,8 +49,15 @@ We use GitHub Actions for continuous integration, making sure our code is always
 - Follow step-by-step instructions to load the data, clean it, and perform initial visualizations.
 - Screenshots:
   - Screenshot of loading and exploring the dataset.
+
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/c9755095-8d04-4c7a-8b12-e8a88d958fa9)
+
   - Screenshot of data cleaning steps.
+
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/d0da514b-5ca8-4f98-aafe-1f4bec344f96)
+  
   - Screenshots of initial visualizations.
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/b3f143f9-da4f-44de-8caa-d416c873ff1d)
 
 ## ⚙️ Model Training and Forecasting
 - The notebook includes detailed steps on training the SARIMA model for beer production forecasting.
