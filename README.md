@@ -57,14 +57,25 @@ We use GitHub Actions for continuous integration, making sure our code is always
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/d0da514b-5ca8-4f98-aafe-1f4bec344f96)
   
   - Screenshots of initial visualizations.
+    
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/b3f143f9-da4f-44de-8caa-d416c873ff1d)
 
 ## ⚙️ Model Training and Forecasting
 - The notebook includes detailed steps on training the SARIMA model for beer production forecasting.
 - Screenshots:
-  - Screenshot of key model parameters.
-  - Screenshot of model evaluation metrics (MSE, RMSE).
+  - Highlighted insights or patterns revealed through the forecasting results.
+
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/0375045f-d395-4a2b-b44c-26ff41dbb6c1)
+  
   - Screenshots of important visualizations during the model training phase.
+
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/4c698463-f3fa-42a3-bb35-da720c7c8c7b)
+
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/12e8ad0f-7a73-4a20-a03d-44c0a8dccbe5)
+
+## 📊 Model Evaluation Metrics
+- Explanation of model evaluation metrics (MSE, RMSE) and their interpretation.
+- Screenshot of these metrics in the notebook.
 
 ## 📈 Automated Forecasting and Results
 - Explain how the notebook automates the forecasting process for users with varying levels of statistical knowledge.
@@ -72,9 +83,6 @@ We use GitHub Actions for continuous integration, making sure our code is always
   - Screenshot of forecasted results compared with actual data.
   - Highlighted insights or patterns revealed through the forecasting results.
 
-## 📊 Model Evaluation Metrics
-- Explanation of model evaluation metrics (MSE, RMSE) and their interpretation.
-- Screenshot of these metrics in the notebook.
 
 ## 📊 Visualization and Interpretation
 - Screenshots of key visualizations aiding in the interpretation of historical and forecasted data.
