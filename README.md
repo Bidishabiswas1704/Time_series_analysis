@@ -74,25 +74,34 @@ We use GitHub Actions for continuous integration, making sure our code is always
   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/12e8ad0f-7a73-4a20-a03d-44c0a8dccbe5)
 
 ## 📊 Model Evaluation Metrics
-- Explanation of model evaluation metrics (MSE, RMSE) and their interpretation.
-- Screenshot of these metrics in the notebook.
+- Screenshot of key model parameters.
+
+![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/5ca49839-3399-4c22-9fdc-5e0038e37b3d)
+
+- Screenshot of these metrics (MSE, RMSE) in the notebook.
+
+![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/7470eb2f-8255-45a1-a17d-6bbb20bf5ef4)
 
 ## 📈 Automated Forecasting and Results
 - Explain how the notebook automates the forecasting process for users with varying levels of statistical knowledge.
 - Screenshots:
   - Screenshot of forecasted results compared with actual data.
-  - Highlighted insights or patterns revealed through the forecasting results.
 
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/53ab6320-f067-4b77-9b8f-fbdcd3bc9573)
+  
+  - Highlighted insights or patterns revealed through the forecasting results.
+  
+  ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/98f6ecfc-825f-4acc-806a-0bfee70687e4)
 
 ## 📊 Visualization and Interpretation
-- Screenshots of key visualizations aiding in the interpretation of historical and forecasted data.
+- Screenshots of key visualizations aiding in the interpretation of historical and forecasted data showcasing specific results or insights obtained from the project.
+- Example Screenshot 1
+    ![Screenshot 1](![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/3275e681-7818-4483-a45f-ff903e4e5847))
+   ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/5e550299-9311-4b3b-bc19-c25778cd7577)
 
-## 📊 Example Screenshots
-- Screenshots showcasing specific results or insights obtained from the project.
-  - Example Screenshot 1
-    ![Screenshot 1](screenshots/screenshot1.png)
   - Example Screenshot 2
-    ![Screenshot 2](screenshots/screenshot2.png)
+    ![Screenshot 2](![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/57b5d03c-4710-470f-b547-7ed4b499d3d2))
+
 
 ## 📄 Usage Instructions
 - Clone the repository:
