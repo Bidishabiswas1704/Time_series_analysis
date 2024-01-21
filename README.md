@@ -60,33 +60,9 @@ pip install -r requirements.txt
 1. Open `Time series forecasting of beer production.ipynb` in Jupyter Notebook.
 2. Follow the step-by-step instructions to explore the dataset, train the SARIMA model, and make predictions.
 
-Open the web browser and go to http://localhost:8501 to explore the beer production forecasting application.
-
-## 📊 Example Screenshots
-
-### User Input
-
-![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/0e990f31-cce8-4a3e-8fb7-281014699593)
-
-From Start date, we can pick the date of our choice with the help of calander provided in the tab, as shown below:
-
-![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/2283f342-d78c-4a60-bec6-07febb4f7cdb)
-
-The number of forecasting steps can be filled with the help of (+) and (-) icons as shown below:
-
-![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/c9ae4b50-9744-40b8-bace-2e78fa40f8a8)
 
 
-### Production Forecast Plot
-
-![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/e6bec98b-ba06-43af-b63f-920e67785598)
-
-
-### Forecasted Production
-
-![image](https://github.com/Bidishabiswas1704/Time_series_analysis/assets/140384850/fba62730-bd69-4253-a1e0-b0a12c8214fa)
-
-### Example Screenshots
+## Example Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 *Description: Preview of data exploration and model training.*
 
@@ -122,6 +98,90 @@ Contributions are welcome! Feel free to open issues, propose new features, or su
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
+Certainly! Let's structure the README file for your time-series forecasting project based on the suggestions:
 
+```markdown
+# Beer Production Forecasting Project
+
+## 📈 Overview
+This project focuses on forecasting beer production using time-series analysis. The primary goal is to provide accurate predictions of future production levels based on historical data. The forecasting tool enables stakeholders in the beer industry to make informed decisions, optimize resources, and plan effectively.
+
+## 📂 Directory Structure
+```
+.
+├── data/
+│   └── monthly-beer-production.csv
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+├── screenshots/
+│   ├── screenshot1.png
+│   └── screenshot2.png
+├── beer_forecasting_app.py
+├── sarima_model.pkl
+├── requirements.txt
+├── README.md
+└── .github/
+    └── workflows/
+        └── ci_cd.yml
+```
+
+## 📊 Data Exploration and Analysis (Jupyter Notebook)
+- Open the Jupyter Notebook (`exploratory_analysis.ipynb`) to explore and analyze the dataset.
+- Follow step-by-step instructions to load the data, clean it, and perform initial visualizations.
+- Screenshots:
+  - Screenshot of loading and exploring the dataset.
+  - Screenshot of data cleaning steps.
+  - Screenshots of initial visualizations.
+
+## ⚙️ Model Training and Forecasting
+- The notebook includes detailed steps on training the SARIMA model for beer production forecasting.
+- Screenshots:
+  - Screenshot of key model parameters.
+  - Screenshot of model evaluation metrics (MSE, RMSE).
+  - Screenshots of important visualizations during the model training phase.
+
+## 📈 Automated Forecasting and Results
+- Explain how the notebook automates the forecasting process for users with varying levels of statistical knowledge.
+- Screenshots:
+  - Screenshot of forecasted results compared with actual data.
+  - Highlighted insights or patterns revealed through the forecasting results.
+
+## 📊 Model Evaluation Metrics
+- Explanation of model evaluation metrics (MSE, RMSE) and their interpretation.
+- Screenshot of these metrics in the notebook.
+
+## 📊 Visualization and Interpretation
+- Screenshots of key visualizations aiding in the interpretation of historical and forecasted data.
+
+## 📊 Example Screenshots
+- Screenshots showcasing specific results or insights obtained from the project.
+  - Example Screenshot 1
+    ![Screenshot 1](screenshots/screenshot1.png)
+  - Example Screenshot 2
+    ![Screenshot 2](screenshots/screenshot2.png)
+
+## 📄 Usage Instructions
+- Clone the repository:
+  ```bash
+  git clone https://github.com/yourusername/beer-production-forecast.git
+  ```
+- Install dependencies:
+  ```bash
+  pip install -r requirements.txt
+  ```
+- Run the Jupyter Notebook:
+  ```bash
+  jupyter notebook exploratory_analysis.ipynb
+  ```
+- Follow the instructions in the notebook to reproduce forecasting results.
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to open issues, propose new features, or submit pull requests.
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
 
 
