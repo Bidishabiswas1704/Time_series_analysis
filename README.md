@@ -109,7 +109,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
 ## 📄 Usage Instructions
 - Clone the repository:
   ```bash
-  git clone https://github.com/yourusername/beer-production-forecast.git
+  git clone https://github.com/Bidishabiswas1704/Time_series_analysis
   ```
 - Install dependencies:
   ```bash
