@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 ### Jupyter Notebook
-1. Open `exploratory_analysis.ipynb` in Jupyter Notebook.
+1. Open `Time series forecasting of beer production.ipynb` in Jupyter Notebook.
 2. Follow the step-by-step instructions to explore the dataset, train the SARIMA model, and make predictions.
 
 Open the web browser and go to http://localhost:8501 to explore the beer production forecasting application.
