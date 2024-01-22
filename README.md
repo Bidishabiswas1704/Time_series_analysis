@@ -83,7 +83,7 @@ We use GitHub Actions for continuous integration, making sure our code is always
 ![image](https://github.com/Bidishabiswas1704/Sales_report/assets/140384850/7470eb2f-8255-45a1-a17d-6bbb20bf5ef4)
 
 ## 📈 Automated Forecasting and Results
-- Explain how the notebook automates the forecasting process for users with varying levels of statistical knowledge.
+- Explaining, how the notebook automates the forecasting process for users with varying levels of statistical knowledge.
 - Screenshots:
   - Screenshot of forecasted results compared with actual data.
 
@@ -132,6 +132,6 @@ Contributions are welcome! Feel free to open issues, propose new features, or su
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-This structure provides a clear and organized overview of your project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
+This structure provides a clear and organized overview of the project, making it easy for viewers and recruiters to understand and engage with the content. Adjust the content as needed and feel free to customize it further based on your preferences.
 
 
